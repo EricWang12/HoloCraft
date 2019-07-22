@@ -1,6 +1,3 @@
-[submodule "3D-R2N2"]
-	path = 3D-R2N2
-	url = https://github.com/gentsk77/3D-R2N2
 [submodule "3D-R2N2-src"]
 	path = 3D-R2N2-src
 	url = https://github.com/chrischoy/3D-R2N2
