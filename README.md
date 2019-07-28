@@ -1,6 +1,6 @@
 # HoloCraft
-Hackathon 2019 project @ Microsoft 
-Project page on HackBox: [HoloCraft](https://garagehackbox.azurewebsites.net/hackathons/1857/projects/82863)
+  Hackathon 2019 project @ Microsoft 
+  Project page on HackBox: [HoloCraft](https://garagehackbox.azurewebsites.net/hackathons/1857/projects/82863)
 - [HoloCraft](#holocraft)
   - [Description](#description)
   - [Implementation](#implementation)
